@@ -28,7 +28,7 @@ public class Main {
 
         try {
             do {            
-                opcion= aplicacion1.leerDatoTipoEntero("Ingrese la opcion correspondiente:"+"\n"+"Que quiere desea hacer?:"+"\n"+"1.Registrar"+"\n"+"2.Consultar"+"\n"+"3.Salir de la aplicacion");
+                opcion= aplicacion1.leerDatoTipoEntero("Ingrese la opcion que desee"+"\n"+"¿Que quiere hacer?"+"\n"+"1.Registrarse"+"\n"+"2.Consultar"+"\n"+"3.Salir ");
 
                 switch(opcion){
 
